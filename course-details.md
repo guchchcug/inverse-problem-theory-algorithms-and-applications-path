@@ -1,9 +1,36 @@
-This is the description we show on the course page [here](https://lab.github.com/guchchcug/inverse-problem-theory-algorithms-and-applications). This first paragraph will be featured at the top of the page so make it great.
-​
+This is the description we show on the course page [here](https://lab.github.com/guchchcug/inverse-problem-theory-algorithms-and-applications). 
 
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
+# Course description
 
+Start with a short paragraph describing what you'll teach. Be sure to include information on how the course is relevant to the learner. This paragraph should answer the question, "Why should I take this course?"
 
-Include information on how they can reach you for questions about the content or course. 
+# What you'll learn
+
+We'll answer common questions like:
+- What questions would a user have before taking your course?
+- List them all here as bullets
+
+When you're done, you'll be able to:
+- Describe the things a learner will be able to do after taking your course
+- Break it down into actionable tasks
+
+# What you'll build
+
+Add a GIF of the completed project
+
+See it in action here <-- link to deployed demo of the working project
+
+# Prerequisites
+
+What should the learner do or know before taking this course?
+
+# Project used
+
+This course makes use of the following open source projects:
+
+- Link to projects here
+- And here
+
+# Audience
+
+Who should take this course?
