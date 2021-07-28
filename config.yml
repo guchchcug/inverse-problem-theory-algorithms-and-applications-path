@@ -1,0 +1,12 @@
+title: 'Inverse Problem Theory, Algorithms, and Applications'
+description: >-
+  This course introduce the inverse problem theory, algorithms, and
+  applications.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
