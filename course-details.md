@@ -1,5 +1,3 @@
-This is the description we show on the course page [here](https://lab.github.com/guchchcug/inverse-problem-theory-algorithms-and-applications). 
-
 # Course description
 
 Start with a short paragraph describing what you'll teach. Be sure to include information on how the course is relevant to the learner. This paragraph should answer the question, "Why should I take this course?"
